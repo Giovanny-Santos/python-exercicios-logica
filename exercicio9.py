@@ -1,0 +1,6 @@
+print("coloque o primeiro valor: ")
+primeiro = input("")
+print("coloque o segundo valor: ")
+segundo = input("")
+terceiro = int(primeiro) + int(segundo)
+print("o valor da soma é: ", terceiro)

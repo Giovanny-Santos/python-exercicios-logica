@@ -7,3 +7,4 @@ if denominador == "0":
 else:
     resultado = int(primeiro) // int(denominador)
     print("o valor da divisão é: ", resultado)
+    

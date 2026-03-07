@@ -7,3 +7,4 @@ if int(segundo) == 0:
 else:
     terceiro = int(primeiro) / int(segundo)
     print("o valor da divisão é: ", terceiro)
+    
